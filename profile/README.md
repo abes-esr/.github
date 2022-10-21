@@ -1,4 +1,4 @@
-# GitHub de l'Agence Bibliographique de l'Enseignement Supérieur (Abes)
+# GitHub de l'Abes
 
 Cette organisation GitHub regroupe les codes sources des applications développées par l'Abes qui sont exclusivement réalisés en open source depuis 2018.
 

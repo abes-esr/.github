@@ -1,6 +1,6 @@
 # GitHub de l'Abes
 
-Cette organisation GitHub regroupe les codes sources des applications développées par l'Abes qui sont exclusivement réalisés en open source depuis 2018.
+Cette organisation GitHub regroupe les codes sources des applications développées par l'Abes qui sont exclusivement réalisés en [open source](https://github.com/abes-esr/abes-politique-developpement/blob/main/01-Gestion%20du%20code%20source.md#licences) depuis 2018.
 
 Ce github regroupe aussi les codes sources des applications développées par les établissements des réseaux de l'Abes qui souhaitent les partager au niveau national à tout l'ESR :
 - [Algoliens Web](https://github.com/abes-esr/algoliens-web) : interface web d'aide à la correction des liens, développé par le SCD Bordeaux 3
